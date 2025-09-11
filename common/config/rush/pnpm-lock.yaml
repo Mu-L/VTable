@@ -16,16 +16,16 @@ importers:
       '@types/markdown-it': ^13.0.0
       '@types/react': ^18.0.0
       '@types/react-dom': ^18.0.0
-      '@visactor/openinula-vtable': workspace:*
-      '@visactor/react-vtable': workspace:*
+      '@visactor/openinula-vtable': workspace:1.20.0-alpha.0
+      '@visactor/react-vtable': workspace:1.20.0-alpha.0
       '@visactor/vchart': 2.0.2
-      '@visactor/vtable': workspace:*
-      '@visactor/vtable-editors': workspace:*
-      '@visactor/vtable-export': workspace:*
-      '@visactor/vtable-gantt': workspace:*
-      '@visactor/vtable-search': workspace:*
-      '@visactor/vtable-sheet': workspace:*
-      '@visactor/vue-vtable': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
+      '@visactor/vtable-editors': workspace:1.20.0-alpha.0
+      '@visactor/vtable-export': workspace:1.20.0-alpha.0
+      '@visactor/vtable-gantt': workspace:1.20.0-alpha.0
+      '@visactor/vtable-search': workspace:1.20.0-alpha.0
+      '@visactor/vtable-sheet': workspace:1.20.0-alpha.0
+      '@visactor/vue-vtable': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-react': 3.1.0
       '@vue/compiler-dom': ^3.5.0
@@ -106,7 +106,7 @@ importers:
       '@types/node': '*'
       '@types/offscreencanvas': 2019.6.4
       '@visactor/vchart': 2.0.2
-      '@visactor/vtable': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       axios: ^1.4.0
       chai: 4.3.4
@@ -196,7 +196,7 @@ importers:
       '@types/react-is': ^17.0.3
       '@types/react-reconciler': 0.28.8
       '@visactor/vchart': 2.0.2
-      '@visactor/vtable': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
@@ -304,7 +304,7 @@ importers:
       '@visactor/vrender-core': 1.0.14
       '@visactor/vrender-kits': 1.0.14
       '@visactor/vscale': ~0.18.1
-      '@visactor/vtable-editors': workspace:*
+      '@visactor/vtable-editors': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@visactor/vutils-extension': ~1.11.5
       '@vitejs/plugin-react': 3.1.0
@@ -427,7 +427,7 @@ importers:
       '@types/react': ^18.0.0
       '@types/react-dom': ^18.0.0
       '@types/react-is': ^17.0.3
-      '@visactor/vtable': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
@@ -572,7 +572,7 @@ importers:
       '@types/react-dom': ^18.0.0
       '@types/react-is': ^17.0.3
       '@visactor/vchart': 2.0.2
-      '@visactor/vtable': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
@@ -675,8 +675,8 @@ importers:
       '@types/react-dom': ^18.0.0
       '@visactor/vdataset': ~0.18.1
       '@visactor/vscale': ~0.18.1
-      '@visactor/vtable': workspace:*
-      '@visactor/vtable-editors': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
+      '@visactor/vtable-editors': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
@@ -791,9 +791,9 @@ importers:
       '@types/react-dom': ^18.0.0
       '@types/react-is': ^17.0.3
       '@visactor/vchart': 2.0.2
-      '@visactor/vtable': workspace:*
-      '@visactor/vtable-editors': workspace:*
-      '@visactor/vtable-gantt': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
+      '@visactor/vtable-editors': workspace:1.20.0-alpha.0
+      '@visactor/vtable-gantt': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
@@ -902,7 +902,7 @@ importers:
       '@types/react-dom': ^18.0.0
       '@types/react-is': ^17.0.3
       '@visactor/vchart': 2.0.2
-      '@visactor/vtable': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
@@ -999,9 +999,9 @@ importers:
       '@types/react-dom': ^18.0.0
       '@visactor/vdataset': ~0.18.1
       '@visactor/vscale': ~0.18.1
-      '@visactor/vtable': workspace:*
-      '@visactor/vtable-editors': workspace:*
-      '@visactor/vtable-plugins': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
+      '@visactor/vtable-editors': workspace:1.20.0-alpha.0
+      '@visactor/vtable-plugins': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
@@ -1102,7 +1102,7 @@ importers:
       '@types/node': '*'
       '@types/offscreencanvas': 2019.6.4
       '@visactor/vchart': 2.0.2
-      '@visactor/vtable': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
       '@visactor/vutils': ~0.19.1
       '@vitejs/plugin-vue': ^5.0.3
       axios: ^1.4.0
@@ -1220,11 +1220,11 @@ importers:
       '@rushstack/eslint-patch': ~1.1.4
       '@types/node': '*'
       '@types/node-fetch': 2.6.4
-      '@visactor/vtable': workspace:*
-      '@visactor/vtable-editors': workspace:*
-      '@visactor/vtable-gantt': workspace:*
-      '@visactor/vtable-plugins': workspace:*
-      '@visactor/vtable-sheet': workspace:*
+      '@visactor/vtable': workspace:1.20.0-alpha.0
+      '@visactor/vtable-editors': workspace:1.20.0-alpha.0
+      '@visactor/vtable-gantt': workspace:1.20.0-alpha.0
+      '@visactor/vtable-plugins': workspace:1.20.0-alpha.0
+      '@visactor/vtable-sheet': workspace:1.20.0-alpha.0
       cross-env: ^7.0.3
       eslint: ~8.18.0
       form-data: ~4.0.0
